@@ -13,3 +13,8 @@ If [yara](https://virustotal.github.io/yara/) is not already installed on your s
 Custom rule files can be stored in :
  - `$HOME/.idapro/plugins/findcrypt-yara/*.rules` under Linux and MacOS.
 - `%APPDATA%\\Roaming\\Hex-Rays\\IDA Pro\\plugin\\findcrypt-yara\\*.rules` under Windows.
+
+
+## MY NOTE:
+
+Here is the solution that I've found: https://www.52pojie.cn/thread-1782078-1-1.html
